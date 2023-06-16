@@ -1,5 +1,4 @@
-''' Egy példa egy egyszerű Python programra megoldásra, döntési fát építünk Jupyter Notebook-ban.
-
+''' Egy példa egy egyszerű Python program megoldásra, döntési fát építünk Jupyter Notebook-ban.
 Először telepíteni kell a megfelelő csomagokat a Jupyter Notebook-kal való munkához. Az alábbi terminál parancsokkal:
 '''
 ```
